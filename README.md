@@ -68,3 +68,17 @@ The lab demonstrates both offensive and defensive security techniques in a contr
 ## Disclaimer
 
 This project was conducted in a controlled lab environment for educational purposes only.
+
+## 📸 Screenshots
+
+### Nmap Scan
+![Nmap](images/nmap-scan.png)
+
+### Hydra Attack
+![Hydra](images/hydra-attack.png)
+
+### SSH Logs Analysis
+![Logs](images/ssh-logs.png)
+
+### Fail2Ban Protection
+![Fail2Ban](images/fail2ban-protection.png)
