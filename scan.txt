@@ -1,0 +1,13 @@
+Nmap Scan Results
+
+Target: 192.168.X.X
+
+Scan Type: TCP Connect Scan (-sT)
+
+Result:
+- Host is up
+- Port 22 (SSH) open
+
+Note:
+SYN scan (-sS) unreliable in virtualized environment
+TCP scan (-sT) used instead
